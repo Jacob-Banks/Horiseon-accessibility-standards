@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -133,6 +134,7 @@ p {
 
 /* Benifits style END */
 
+/* footer style Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -140,6 +142,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }   
+
+/* footer style END */
