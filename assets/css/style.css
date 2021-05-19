@@ -86,7 +86,9 @@ p {
   margin-left: 20px;
 }
 
-.content-subsection {
+.search-engine-optimization,
+.social-media-marketing,
+.online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -95,11 +97,15 @@ p {
   color: #ffffff;
 }
 
-.content-subsection img {
+.search-engine-optimization img,
+.social-media-marketing img,
+.online-reputation-management img {
   max-height: 200px;
 }
 
-.content-subsection h2 {
+.search-engine-optimization h2,
+.social-media-marketing h2,
+.online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
